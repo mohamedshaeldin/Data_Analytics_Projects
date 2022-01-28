@@ -1,4 +1,5 @@
-# Data_Analytics_Project001
+# Data_Analytics_Projects
+   overview of data scince salary Estimator Project & Ball Image Classifier Project
 
 # [Project 1: Data Science Salary Estimator: Project Overview](https://github.com/PlayingNumbers/ds_salary_proj)
 * Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
