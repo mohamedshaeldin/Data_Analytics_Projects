@@ -7,7 +7,7 @@
 * Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
 * Built a client facing API using flask 
 
-![](/images/positions_by_state.png)
+![](https://github.com/mohamedshaeldin/Data_Analytics_Project001/blob/main/positions_by_state.png)
 
 
 
